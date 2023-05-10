@@ -66,12 +66,8 @@ output/                     # training logs, model checkpoints
 
 ### prepare dataset
 
-[download datasets from github releases](https://github.com/tanganke/HMR/releases/download/material/datasets.zip)
-
-```bash
-cd data
-unzip fashion_mnist.zip
-```
+1. [download datasets from github releases](https://github.com/tanganke/HMR/releases/download/material/datasets.zip)
+2. unzip it to `data/` dir
 
 ### 2.1 Ours
 
