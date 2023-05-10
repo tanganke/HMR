@@ -62,7 +62,11 @@ output/                     # training logs, model checkpoints
 
 ## 2. Benchmark Experiments on Fashion-MNIST
 
+[download tensorboard logs from github releases](https://github.com/tanganke/HMR/releases/download/material/output.zip)
+
 ### prepare dataset
+
+[download datasets from github releases](https://github.com/tanganke/HMR/releases/download/material/datasets.zip)
 
 ```bash
 cd data
